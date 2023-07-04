@@ -1,5 +1,1 @@
-<?php
-
-phpino();
-
-?>
+<script>alert('hh');</script>
